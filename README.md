@@ -7,3 +7,5 @@ getPoseVelocity()
 setDriveSignal()
 setDrivePower()
 DE CE :c
+
+UPDATE: Uitasem sa dau extend la MecanumDrive, acum merge perfect :3
